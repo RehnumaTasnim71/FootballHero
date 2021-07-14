@@ -1,7 +1,7 @@
 .nav {
     background-color: #2D25A0;
     overflow: hidden;
-    padding-left: 52px;
+    padding-left: 60px;
   }
   
   .nav a {
@@ -16,24 +16,24 @@
   
   .nav a:hover {
     background-color: rgb(212, 210, 210);
-    
+    color: black;
   }
 
   .nav .login{
     float: right;
   }
 
-  .login button {
+  .nav .login button {
     float: right;
     padding: 6px;
     margin-top: 8px;
     margin-right: 16px;
     background: #E02C6D;
-    font-size: 12px;
+      font-size: 12px;
     border: none;
     cursor: pointer;
   }
-  
+
 /* end nav */
 
 
