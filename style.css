@@ -125,32 +125,32 @@ video{
 
 
 /* highlight */
-.half-width{
-    width: 90%;
-    margin: 0 auto;
-    padding-top: 3%;
-    display: flex;
-    flex-wrap: wrap;
+.power{
+    display: flex ;
+    margin-bottom: 80px;
 }
-.box{
-    flex: 1 1 500px;
+
+.post{
+    width: 40%;
+    padding-left: 7%;
+    
 }
-.headline{
-    padding: 5% 0;
-    padding-right: 5%;
+
+.pic img{
+    width: 50%;
+    margin-left: 1in;
 }
+
 .button1{
     text-decoration: none;
     background-color: #E02C6D ;
-    padding: 10px 20px;
+    padding: 10px 40px;
     border-radius: 5px;
-    color: rgb(255, 255, 255);
+    color: white;
     font-weight: 700;
-}    
-.half-width img{
-    width: 50%;
 }
 /* end */
+
 
 /* new sections */
 .chat{
